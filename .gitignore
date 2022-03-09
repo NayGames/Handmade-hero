@@ -1,0 +1,9 @@
+# Visual Studio files and folder
+**.sln
+**.suo
+**.db
+**.ipch
+**.pdb
+**.exe
+**.ilk
+**.obj
